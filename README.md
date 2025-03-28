@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">Software Engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siva-2707" alt="siva-2707" /></a> </p>
+<h3 align="center">I'm a Software Engineer</h3>
 
 - 🔭 I’m currently working on [a Job Recommendation ML project](https://github.com/Siva-2707/job-recommender)
 
