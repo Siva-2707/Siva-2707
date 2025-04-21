@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Siva</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
-- 🔭 I’m currently working on [a Job Recommendation ML project](https://github.com/Siva-2707/job-recommender)
+- 🔭 I’m currently working on [a Data Visualization ML project](https://github.com/DesigniteTools/DViz)
 
 - 🌱 I’m currently learning **Machine Learning**
 
